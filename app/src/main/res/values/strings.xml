@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HeroesApp</string>
+    <string name="hero_name">hero name</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="card_view">Card View</string>
+</resources>
